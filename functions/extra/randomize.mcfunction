@@ -1,5 +1,5 @@
 ##############################################################################################################
-# Author: Jragon [ORIGINAL BY RUBISK. THIS HAS BEEN MODIFIED FOR MINECRAFT 1.12]
+# Author: Ace_Monkey_Ilium [ORIGINAL BY RUBISK. THIS HAS BEEN MODIFIED FOR MINECRAFT 1.12]
 # Date: May 20th 2017
 # Description: Generates a random number between 1 and 100.
 ################################################################################################################
