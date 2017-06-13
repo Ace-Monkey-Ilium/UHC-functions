@@ -1,5 +1,5 @@
 ##############################################################################################################
-# Author: Jragon
+# Author: Ace_Monkey_Ilium
 # Date: May 12th 2017
 # Description: Raycasts the entity in the direction it's facing. Does NOT take
 # into account the X axis. IGNORES WALLS.
