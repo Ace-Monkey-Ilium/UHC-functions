@@ -23,3 +23,7 @@
 /gamerule spawnRadius 1
 
 /gamerule spectatorsGenerateChunks false
+
+```
+Nothing here at the moment
+```
