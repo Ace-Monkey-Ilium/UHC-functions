@@ -1,5 +1,5 @@
 ##############################################################################################################
-# Author: Jragon
+# Author: Ace_Monkey_Ilium
 # Date: May 13th 2017
 # Description: Sticks two entities together. The entity running this command will stick
 # to the nearest entity PROVIDED IT HAS THE "sticky" TAG. Otherwise it will do
