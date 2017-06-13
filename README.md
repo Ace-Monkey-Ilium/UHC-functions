@@ -1,4 +1,4 @@
-# UHC-functions
+# UHC functions
 
 ### Step 1 - Type the following gamerules using the function
 
