@@ -1,5 +1,5 @@
 ##############################################################################################################
-# Author: Jragon
+# Author: Ace_Monkey_Ilium
 # Date: May 12th 2017
 # Description: Entities running this function will move towards the nearest entity
 # provided it has the "trackedEntity" tag.
