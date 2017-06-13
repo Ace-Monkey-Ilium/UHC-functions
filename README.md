@@ -2,7 +2,7 @@
 
 ### Step 1 - Type the following gamerules using the function
 
-/gamerule commandBlockOutput false
+/gamerule commandBlockOutput false	
 /gamerule doMobSpawning false
 /gamerule doWeatherCycle false
 /gamerule keepInventory true
