@@ -2,6 +2,7 @@
 
 ### Step 1 - Type the following gamerules using the function
 
+```
 /gamerule commandBlockOutput false	
 
 /gamerule doMobSpawning false
@@ -23,7 +24,4 @@
 /gamerule spawnRadius 1
 
 /gamerule spectatorsGenerateChunks false
-
-```
-Nothing here at the moment
 ```
