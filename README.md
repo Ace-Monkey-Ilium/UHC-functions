@@ -1,4 +1,4 @@
-# UHC functions
+# Minecraft UHC functions
 
 ### Step 1 - Type the following gamerules using the function
 
